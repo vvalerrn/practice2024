@@ -1,0 +1,27 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Caches and logs
+*.log
+logs/
+*.cache
+
+# Virtual environment
+venv/
+.env
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Database
+db.sqlite3
+
+# Static files
+staticfiles/
+
+# Media files
+media/
